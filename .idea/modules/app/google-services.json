@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328646197591",
+    "firebase_url": "https://starkov-c56e5.firebaseio.com",
+    "project_id": "starkov-c56e5",
+    "storage_bucket": "starkov-c56e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328646197591:android:ab0e8459b06ce7f3f43e12",
+        "android_client_info": {
+          "package_name": "com.example.starkov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328646197591-j2ubpaku7avdro30ibcd6n8jb7ck9tbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.starkov",
+            "certificate_hash": "33befcaeb8fc3db4b5b538b0db1af553f890041c"
+          }
+        },
+        {
+          "client_id": "328646197591-abpgefjr2e3p602elcl1hcj6loti4gc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGw1L5pKkNrsxbYJ2eXFKqllkC_8TT0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328646197591-abpgefjr2e3p602elcl1hcj6loti4gc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
